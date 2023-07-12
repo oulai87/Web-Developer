@@ -1,0 +1,48 @@
+Check this website for the complete list of html tags
+
+https://www.w3schools.com/tags/ref_byfunc.asp
+
+Below are the commonly used html tags
+
+1-Header Tag (header1 to header6)
+
+<h1> </h1>
+<h2>  </h2>
+-
+-
+-
+<h6> </h6>
+
+2-Paragraph
+
+<p>  </p>
+
+3-B Tag or strong 
+It is used when you want to emphasize or highlight something in the paragraph
+
+<b> </b>
+<strong> </strong>
+
+4-i Tag or em
+
+  <i> </i> 
+  <em> </em>
+
+5- Strong (Used to bold)
+
+<strong> </strong>
+
+6- Order List
+
+<ol> </ol>
+
+7- Unordered List
+
+<ul>  </ul>
+
+8- List
+
+<li> </li>
+
+
+
